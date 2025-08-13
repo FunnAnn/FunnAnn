@@ -9,8 +9,8 @@
 ## 🔭 About Me
 
 - 📫 You can reach me at: [phanthiphuongan1412@gmail.com](mailto:phanthiphuongan1412@gmail.com)  
-- 📄 Check out my CV: [Link to CV](https://drive.google.com/file/d/1Mi-izjj1JTkPwPss7RqrYQqVO4Wy7wNs/view?usp=sharing)
-
+- 📄 Check out my tester CV: [Link to CV](https://drive.google.com/file/d/1Mi-izjj1JTkPwPss7RqrYQqVO4Wy7wNs/view?usp=drive_link)
+- 📄 Check out my UI/UX Designer CV: [Link to CV](https://drive.google.com/file/d/17aeSM_cry_RTWYHC5fHPm78_u6vxws8G/view?usp=drive_link)
 ---
 
 ## 💻 Languages & Tools
@@ -56,12 +56,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaaaMinn&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiaaaMinn&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-
 <!--
 **FunnAnn/FunnAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
